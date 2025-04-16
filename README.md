@@ -2,7 +2,7 @@
 
 <p align="center">
   <picture>
-    <img alt="tx-ui" src="./media/tx-ui-dark.png" style="width:512px;height:512px;">
+    <img alt="star-xui" src="./media/tx-ui-dark.png" style="width:512px;height:512px;">
   </picture>
 </p>
 
@@ -23,7 +23,7 @@
 ## Install & Upgrade
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/AghayeCoder/tx-ui/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/Moriistar/star-xui/main/install.sh)
 ```
 
 ## SSL Certificate
