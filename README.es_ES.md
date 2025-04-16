@@ -1,19 +1,12 @@
-[English](/README.md) | [中文](/README.zh_CN.md) | [Español](/README.es_ES.md) | [Русский](/README.ru_RU.md)
 
 <p align="center">
   <picture>
-    <img alt="tx-ui" src="./media/tx-ui-dark.png" style="width:512px;height:512px;">
+    <img alt="star-xui" src="./media/tx-ui-dark.png" style="width:512px;height:512px;">
   </picture>
 </p>
 
 **Un Panel Web Avanzado • Construido sobre Xray Core** \
 **Este proyecto es una bifurcación del panel 3x-ui.**
-
-[![](https://img.shields.io/github/v/release/AghayeCoder/tx-ui.svg)](https://github.com/AghayeCoder/tx-ui/releases)
-[![](https://img.shields.io/github/actions/workflow/status/AghayeCoder/tx-ui/release.yml.svg)](#)
-[![GO Version](https://img.shields.io/github/go-mod/go-version/AghayeCoder/tx-ui.svg)](#)
-[![Downloads](https://img.shields.io/github/downloads/AghayeCoder/tx-ui/total.svg)](#)
-[![License](https://img.shields.io/badge/license-GPL%20V3-blue.svg?longCache=true)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 > **Descargo de responsabilidad:** Este proyecto es solo para aprendizaje personal y comunicación, por favor no lo uses con fines ilegales, por favor no lo uses en un entorno de producción
 
@@ -22,7 +15,7 @@
 ## Instalar y Actualizar
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/AghayeCoder/tx-ui/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/Moriistar/star-xui/main/install.sh)
 ```
 
 ## Certificado SSL
