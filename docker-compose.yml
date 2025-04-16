@@ -2,9 +2,9 @@
 version: "3"
 
 services:
-  tx-ui:
-    image: ghcr.io/aghayecoder/tx-ui:latest
-    container_name: tx-ui
+  star-xui:
+    image: 
+    container_name: star-xui
     hostname: yourhostname
     volumes:
       - $PWD/db/:/etc/x-ui/
